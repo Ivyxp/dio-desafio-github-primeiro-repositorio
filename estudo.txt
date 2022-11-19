@@ -13,3 +13,12 @@ defini algumas nomeclaturas faladas durante o curso:
 *Commit - Sao registros das alteracoes que foram modificadas no prejeto.
 
 *Branch - O projeto possui uma categoria principal (main) onde ficam todos os registros de alteracoes, quando fazemos um commit e/ou push, e para la que elas vao. 
+
+Siglas e seus comandos:
+
+CD = Navegar entre pastas.
+DIR = Lista de diretorios, mostra tudo que contem na pasta.
+CD .. = Voltar
+CLS OU CTRL L = limpar a tela de terminal.
+MKDIR = criar uma pasta.
+ECHO = printar tela.
