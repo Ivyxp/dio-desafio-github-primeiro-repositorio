@@ -1,0 +1,3 @@
+git - aplicacao que "guarda" versoes do codigo, suporta varias pessoas modificando o mesmo codigo e identifica cada uma delas
+
+
