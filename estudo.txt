@@ -1,3 +1,15 @@
-git - aplicacao que "guarda" versoes do codigo, suporta varias pessoas modificando o mesmo codigo e identifica cada uma delas
+Algumas anotacoes que fiz durante o curso que me ajudaram compreender melhor o conteudo.
 
 
+Git - aplicacao que "guarda" versoes do codigo, suporta varias pessoas modificando o mesmo codigo e identifica cada uma delas
+
+
+defini algumas nomeclaturas faladas durante o curso:
+
+*Repositorio - Onde esta o codigo fonte do projeto.
+
+*README.md - Arquivo que usamos para colocar documentacoes sobre o projeto, maneira como funsiona, como usar, toda informacao que possa ser necessaria para o entendimento do cogigo/projeto.
+
+*Commit - Sao registros das alteracoes que foram modificadas no prejeto.
+
+*Branch - O projeto possui uma categoria principal (main) onde ficam todos os registros de alteracoes, quando fazemos um commit e/ou push, e para la que elas vao. 
